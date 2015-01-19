@@ -1,0 +1,64 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	new file:   .classpath
+#	new file:   .project
+#	new file:   .settings/.jsdtscope
+#	new file:   .settings/org.eclipse.jdt.core.prefs
+#	new file:   .settings/org.eclipse.wst.common.component
+#	new file:   .settings/org.eclipse.wst.common.project.facet.core.xml
+#	new file:   .settings/org.eclipse.wst.jsdt.ui.superType.container
+#	new file:   .settings/org.eclipse.wst.jsdt.ui.superType.name
+#	new file:   WebContent/META-INF/MANIFEST.MF
+#	new file:   WebContent/WEB-INF/jsp/hello.jsp
+#	new file:   WebContent/WEB-INF/jsp/template/Footer.jsp
+#	new file:   WebContent/WEB-INF/jsp/template/Header.jsp
+#	new file:   WebContent/WEB-INF/jsp/template/Layout.jsp
+#	new file:   WebContent/WEB-INF/jsp/template/Menu.jsp
+#	new file:   WebContent/WEB-INF/lib/commons-beanutils-1.8.0.jar
+#	new file:   WebContent/WEB-INF/lib/commons-digester-2.0.jar
+#	new file:   WebContent/WEB-INF/lib/commons-logging-1.1.1.jar
+#	new file:   WebContent/WEB-INF/lib/hibernate-validator-annotation-processor-4.1.0.Final.jar
+#	new file:   WebContent/WEB-INF/lib/javax.jar
+#	new file:   WebContent/WEB-INF/lib/jstl-1.2.jar
+#	new file:   WebContent/WEB-INF/lib/log4j-1.2.15.jar
+#	new file:   WebContent/WEB-INF/lib/slf4j-api-1.7.6.jar
+#	new file:   WebContent/WEB-INF/lib/spring-aop-4.1.1.RELEASE.jar
+#	new file:   WebContent/WEB-INF/lib/spring-aspects-4.1.1.RELEASE.jar
+#	new file:   WebContent/WEB-INF/lib/spring-beans-4.1.1.RELEASE.jar
+#	new file:   WebContent/WEB-INF/lib/spring-context-4.1.1.RELEASE.jar
+#	new file:   WebContent/WEB-INF/lib/spring-context-support-4.1.1.RELEASE.jar
+#	new file:   WebContent/WEB-INF/lib/spring-core-4.1.1.RELEASE.jar
+#	new file:   WebContent/WEB-INF/lib/spring-expression-4.1.1.RELEASE.jar
+#	new file:   WebContent/WEB-INF/lib/spring-jdbc-4.1.1.RELEASE.jar
+#	new file:   WebContent/WEB-INF/lib/spring-jms-4.1.1.RELEASE.jar
+#	new file:   WebContent/WEB-INF/lib/spring-orm-4.1.1.RELEASE.jar
+#	new file:   WebContent/WEB-INF/lib/spring-tx-4.1.1.RELEASE.jar
+#	new file:   WebContent/WEB-INF/lib/spring-web-4.1.1.RELEASE.jar
+#	new file:   WebContent/WEB-INF/lib/spring-webmvc-4.1.1.RELEASE.jar
+#	new file:   WebContent/WEB-INF/lib/spring-webmvc-portlet-4.1.1.RELEASE.jar
+#	new file:   WebContent/WEB-INF/lib/standard-1.1.2.jar
+#	new file:   WebContent/WEB-INF/lib/tiles-api-2.2.1.jar
+#	new file:   WebContent/WEB-INF/lib/tiles-core-2.2.1.jar
+#	new file:   WebContent/WEB-INF/lib/tiles-jsp-2.2.1.jar
+#	new file:   WebContent/WEB-INF/lib/tiles-request-api-1.0.4.jar
+#	new file:   WebContent/WEB-INF/lib/tiles-request-jsp-1.0.4.jar
+#	new file:   WebContent/WEB-INF/lib/tiles-request-servlet-1.0.4.jar
+#	new file:   WebContent/WEB-INF/lib/tiles-servlet-2.2.1.jar
+#	new file:   WebContent/WEB-INF/lib/tiles-template-2.2.1.jar
+#	new file:   WebContent/WEB-INF/lib/validation-api-1.1.0.Final.jar
+#	new file:   WebContent/WEB-INF/spring-servlet.xml
+#	new file:   WebContent/WEB-INF/tiles-def.xml
+#	new file:   WebContent/WEB-INF/web.xml
+#	new file:   WebContent/index.jsp
+#	new file:   WebContent/resources/css/mainIdiot.css
+#	new file:   WebContent/resources/images/img.png
+#	new file:   build/classes/com/obs/controller/HelloWorldController.class
+#	new file:   onlineBookStore
+#	new file:   src/com/obs/controller/HelloWorldController.java
+#
+
+
+-m
