@@ -10,7 +10,7 @@ public class HelloWorldController {
     @RequestMapping("/hello")
     public ModelAndView helloWorld() {
  
-        String message = "Hello World, Spring 3.0! I am using Spring";
+        String message = "Hello World, Spring 3.0! I am using Spring 3.0";
         return new ModelAndView("hello", "message", message);
     }
 }  
